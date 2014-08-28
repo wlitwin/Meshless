@@ -46,3 +46,6 @@ Slow motion enabled beta = 0.8, alpha = 0.2, cube.
 
 Slow motion enabled beta = 0.8, alpha = 0.2, sphere.
 [Example 2](https://vimeo.com/85009231)
+
+Older video, before quadratic deformations were implemented.
+[Example 3](https://vimeo.com/104629710)
